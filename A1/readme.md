@@ -43,6 +43,8 @@ This method tests the instantiation of an Apple product and the correct retrieva
 ## How to Run Tests
 To run tests, navigate to the `test/main/java` directory and execute the test classes.
 
+##Screenshots
+![image](https://github.com/abduh3131/Software-Arch/assets/94156984/23f3e005-c567-4438-8d05-df6d401f63b7)
 
 
 
