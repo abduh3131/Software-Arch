@@ -37,7 +37,7 @@ prices.txt # Data file containing product prices.
 This method tests the creation of a Banana product and the accurate retrieval of its price from the data file.
 
 ### 2. testAppleProduct
-This method tests the instantiation of an Apple product and the correct retrieval of its price from the data file.
+This method tests the creation of an Apple product and the accurate retrieval of its price from the data file.
 
 
 ## How to Run Tests
