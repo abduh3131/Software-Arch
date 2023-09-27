@@ -28,14 +28,13 @@ main/java # Java test classes directory.
 
 prices.txt # Data file containing product prices.
 
-README.md # This file, containing information about the project.
 
 
  
 
 ## Test Methods
 
-### 1. testBananaProduc
+### 1. testBananaProduct
 This method tests the creation of a Banana product and the accurate retrieval of its price from the data file.
 
 ### 2. testAppleProduct
